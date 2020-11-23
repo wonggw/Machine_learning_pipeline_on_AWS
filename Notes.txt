@@ -1,0 +1,91 @@
+https://docs.google.com/document/d/16s9x1FfOB0ZB9WTOWC6LYIBiuP7zQGt0KMRaqZs5qdU/edit?pli=1
+
+https://aws.amazon.com/certification/certified-cloud-practitioner/
+
+zenon.saavedra@trainocate.com
+
+https://www.amazon.sg/Introduction-Statistical-Learning-Applications-103/dp/1461471370/ref=asc_df_1461471370/?tag=googleshoppin-22&linkCode=df0&hvadid=389055537118&hvpos=&hvnetw=g&hvrand=6309699736133728653&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9062505&hvtargid=pla-406475557655&psc=1
+
+https://www.aws.training/Details/eLearning?id=26597
+
+https://drive.google.com/drive/folders/1VYbLv6i6s44I3up4HpP7F5FatD98K7Zl?usp=sharing
+
+https://drive.google.com/drive/folders/0BytUDX_MahaZfmhTUmxRU3k1YU5MN0V3dDZKbDVkbUZEcVg5SEdpcFVEZHRqeHdfUDdkT28
+
+Step 1: Registration to the AWS training portal (refer to AWS Training & Certification Portal New Account setup)
+
+ 
+
+Step 2: https://online.vitalsource.com/ (registration for student guide)
+
+ 
+
+Step 3: https://aws.qwiklabs.com (Labs will be available to you on the first day of class through QWIKLABS)
+
+https://aws.amazon.com/blogs/machine-learning/building-a-customized-recommender-system-in-amazon-sagemaker/
+
+https://aws.amazon.com/blogs/machine-learning/pruning-machine-learning-models-with-amazon-sagemaker-debugger-and-amazon-sagemaker-experiments/
+
+https://docs.aws.amazon.com/sagemaker/latest/dg/model-monitor-byoc-containers.html
+
+https://aws.amazon.com/blogs/aws/amazon-sagemaker-studio-the-first-fully-integrated-development-environment-for-machine-learning/
+
+https://docs.aws.amazon.com/sagemaker/latest/dg/xgboost-tuning.html
+
+Collaborative filtering
+
+Custom model (amazon BYOC)
+
+F1-Score is a Harmonic Mean(HM) of Precision and Recall
+
+https://aws.amazon.com/marketplace/pp/NVIDIA-CUDA-by-NVIDIA/B07KKWXKSX
+
+R and R^2 value should be small. If difference is too large, overfitted.
+
+Synthetic Minority Oversampling Technique
+ (For imbalanced data)
+
+recordIO-wrapped protobuf (make the training faster)
+Put data into S3 bucket. During training, the model will extract the data out from S3 bucket.
+
+Synthetic Minority Oversampling Technique( Used to generate data. Usually in medicine, fraud transaction)
+
+Feature engineering
+
+If there are 2 features with high correlation. Remove that feature. Also, remove feature that is highly correlated to the predicted analysis.
+
+
+ln = natural log (logarithm transformation)
+
+min max scaling is for small standard deviation.
+
+Ordinal data have rank. Order matters.
+Norminal data does not have rank. Order does not matter.
+
+TF-IDF (for NLP)
+
+hyperparameters tuning - grid search ( not used in real life)
+- random search
+- bayesian search 
+
+https://quizizz.com/collection/5fb9cb33b684d2001bcb043f
+
+https://ntuc.instructure.com/courses/6453
+
+MLLiB (spark machine learning lilbrary for distrbuted computing)
+
+databricks
+like HDinsight
+EC2 is the virtual server
+ECR is Elastic Container Registry (store algo) 
+
+ECS is  Elastic Container Service - Not part of machine learning
+EMR is Elastic MapReduce (micro service) - Not part of machine learning
+
+lamda fuctions
+
+
+
+
+
+
