@@ -1,3 +1,5 @@
+https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt
+
 https://docs.google.com/document/d/16s9x1FfOB0ZB9WTOWC6LYIBiuP7zQGt0KMRaqZs5qdU/edit?pli=1
 
 https://aws.amazon.com/certification/certified-cloud-practitioner/
@@ -84,7 +86,16 @@ EMR is Elastic MapReduce (micro service) - Not part of machine learning
 
 lamda fuctions
 
+pdfunite
 
+https://aws.amazon.com/sagemaker/pricing/
+
+https://quizizz.com/collection/5fb9cb33b684d2001bcb043f
+
+Heuristics
+virus scanning programs also run on heuristics IDS/IPS
+
+Box plot is for outliers
 
 
 
