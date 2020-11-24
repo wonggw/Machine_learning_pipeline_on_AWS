@@ -97,6 +97,51 @@ virus scanning programs also run on heuristics IDS/IPS
 
 Box plot is for outliers
 
+ITIL methodology
 
+fastapi
 
+both request endpoint call is in json
+
+https://gist.github.com/zzenonn/07f289dc2889267b7ea944611ab02762
+
+Production Variant
+
+A/B Testing normally has equal weights (new model)
+Canary has heavy Blue, light green 
+Blue/Green is 100% green
+Green = v2
+
+model run in parallel (in sage maker can be on the same machine)
+
+endpoint = rest api
+helper code = wrapper for rest api easier
+inference code  = ML algo
+
+Savings Plans / Spot instances
+
+Elastic inferencing, flexiable insertion and removal of GPU
+
+Data pipelines uses crawlers
+
+Cloudwatch
+No you do not need to pay for metrics
+Need to pay for logs (storage cost)
+
+Cron job - Scheduled job (automated)
+Concept drift -  The lowering of model performance over time
+Usually apply to all context. But some is slower than others. Recommendation(Fast) Images (Slower)
+
+https://aws.amazon.com/blogs/machine-learning/increasing-performance-and-reducing-the-cost-of-mxnet-inference-using-amazon-sagemaker-neo-and-amazon-elastic-inference/
+
+https://aws.amazon.com/blogs/aws/amazon-sagemaker-autopilot-fully-managed-automatic-machine-learning/
+
+Managed machine learning services (MLaaS)
+Textract
+Amazon Lex Chatbots
+Amazon Translate
+Amazon Transcribe
+
+recall - TP /(TP+FN) cost of FN is high (in credit card FN cost is high)
+precision - TP/(TP+FP) cost of FP is high
 
