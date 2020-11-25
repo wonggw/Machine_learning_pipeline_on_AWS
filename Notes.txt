@@ -1,10 +1,9 @@
-https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt
 
-https://docs.google.com/document/d/16s9x1FfOB0ZB9WTOWC6LYIBiuP7zQGt0KMRaqZs5qdU/edit?pli=1
+zenon.saavedra@trainocate.com
 
 https://aws.amazon.com/certification/certified-cloud-practitioner/
 
-zenon.saavedra@trainocate.com
+https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt
 
 https://www.amazon.sg/Introduction-Statistical-Learning-Applications-103/dp/1461471370/ref=asc_df_1461471370/?tag=googleshoppin-22&linkCode=df0&hvadid=389055537118&hvpos=&hvnetw=g&hvrand=6309699736133728653&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9062505&hvtargid=pla-406475557655&psc=1
 
@@ -16,11 +15,7 @@ https://drive.google.com/drive/folders/0BytUDX_MahaZfmhTUmxRU3k1YU5MN0V3dDZKbDVk
 
 Step 1: Registration to the AWS training portal (refer to AWS Training & Certification Portal New Account setup)
 
- 
-
 Step 2: https://online.vitalsource.com/ (registration for student guide)
-
- 
 
 Step 3: https://aws.qwiklabs.com (Labs will be available to you on the first day of class through QWIKLABS)
 
